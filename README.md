@@ -1,5 +1,5 @@
 #live demo  
-git@github.com:abhi5157/Surge-crypto.git
+https://abhi5157.github.io/Surge-crypto/
 
 # Getting Started with Create React App
 

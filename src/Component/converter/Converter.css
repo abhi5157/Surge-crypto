@@ -1,0 +1,37 @@
+.wrap{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 1rem;
+  justify-content: center;
+}
+.Converter{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    float: right;
+    justify-content: center;
+}
+.Converter-heading{
+    align-items: center;
+    padding: 1rem;
+    border-spacing: 0.5rem;
+    float: left;
+    justify-content: center;
+    padding-left: 9rem;
+    margin-right: 4rem;
+}
+.converter-btn{
+        /* align-items: center; */
+        margin-top: 1rem;
+        /* margin-left: 6rem; */
+        /* left: 12rem; */
+        align-content: center;
+}
+.conversionName{
+ 
+ text-align: center;
+ margin-top: 1.5rem;
+ font-size: 2rem;
+ 
+}

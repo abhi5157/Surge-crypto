@@ -1,0 +1,30 @@
+.Sec3 .container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: center;
+    align-items: center;
+    padding: 3rem 1rem;
+}
+
+.Sec3 .left {
+    text-align: center;
+}
+
+.Sec3 img {
+    width: 300px;
+}
+
+.Sec3 img:hover {
+    transform: scale(1.1);
+    transition: 0.5s ease-in-out;
+}
+
+.Sec3 .right p {
+    margin: 2rem 0;
+}
+
+@media screen and (max-width:940px) {
+    .Sec3 .container {
+        grid-template-columns: 1fr;
+    }
+}

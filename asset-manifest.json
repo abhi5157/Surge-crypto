@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Surge-crypto/static/css/main.9a02f699.css",
+    "main.js": "/Surge-crypto/static/js/main.8d03a4f8.js",
+    "static/media/cryptocurrency-news.jpg": "/Surge-crypto/static/media/cryptocurrency-news.e76d7246c03166228df1.jpg",
+    "static/media/crypto_imp.jpg": "/Surge-crypto/static/media/crypto_imp.1e303ab585ffe254b13d.jpg",
+    "index.html": "/Surge-crypto/index.html",
+    "main.9a02f699.css.map": "/Surge-crypto/static/css/main.9a02f699.css.map",
+    "main.8d03a4f8.js.map": "/Surge-crypto/static/js/main.8d03a4f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a02f699.css",
+    "static/js/main.8d03a4f8.js"
+  ]
+}
